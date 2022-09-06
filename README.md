@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sony!</h1>
 <h3 align="center">Data Enthusiast from Surabaya, Indonesia.</h3>
 
-<h3 align="center">Visit my Medium Here:</h3>
-<h2 align="center" ><a href="https://medium.com/@triesonyk">Trie Sony Kusumowibowo</a></h2>
+<h3 align="center">Visit my website Here:</h3>
+<h2 align="center" ><a href="https://triesonyk.com">Trie Sony Kusumowibowo</a></h2>
 
 
 
